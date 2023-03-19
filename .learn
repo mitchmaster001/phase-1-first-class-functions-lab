@@ -7,3 +7,12 @@ languages:
   - javascript
 resources:
   - 3
+  tags:
+  - first-class
+  - functions
+  - functional programming
+  - code-along
+  languages:
+  - javascript
+  resources:
+  - 3
